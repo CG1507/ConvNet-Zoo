@@ -2,9 +2,9 @@
 
 ConvNet-Zoo is playground for benchmark architectures of Convolutional Neural Networks (CNN). It is implemented in Keras with TensorFlow backend to compare the different architectures and understand the **How ConvNet's layers see the images?**.
 
-## GUI
+## PlayGround
 
-<img src="https://github.com/CG1507/ConvNet-Zoo/images/demo.gif" width="900" height="600"> 
+<img src="https://drive.google.com/open?id=1pd-yZeHMvV0-Ts-aygTKhbMZWYvWqh5Y" width="900" height="600"> 
 
 ## Requirements:
 * PyQt5
