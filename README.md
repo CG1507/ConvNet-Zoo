@@ -4,7 +4,7 @@ ConvNet-Zoo is playground for benchmark architectures of Convolutional Neural Ne
 
 ## PlayGround
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://twitter.com/i/status/1065927510506885120" width="900" height="600" />
 
 ## Requirements:
 * PyQt5
@@ -31,3 +31,10 @@ TensorBoard gives you flexibility to visualize all the test image on same model 
 ```
 tensorboard --logdir=<LOG-PATH (layerwise)>
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+
+Ghanshyam Chodavadiya (CG1507)
