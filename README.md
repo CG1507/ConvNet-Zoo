@@ -4,7 +4,7 @@ ConvNet-Zoo is playground for benchmark architectures of Convolutional Neural Ne
 
 ## GUI
 
-<img src="https://github.com/InFoCusp/ui_resources/blob/master/cnnvis_images/1.jpg" width="900" height="600"> 
+<img src="https://github.com/CG1507/ConvNet-Zoo/images/demo.gif" width="900" height="600"> 
 
 ## Requirements:
 * PyQt5
