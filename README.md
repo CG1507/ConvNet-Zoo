@@ -41,4 +41,4 @@ tensorboard --logdir=<LOG-PATH (layerwise)>
 
 ## Acknowledgement
 
-:green_heart: tfcnn_vis
+:green_heart: [tfcnn_vis](https://github.com/InFoCusp/tf_cnnvis)
