@@ -14,7 +14,7 @@ from ut import *
 # prevent duplicate gradient registration
 is_Registered = False
 
-# map from keyword to layer type
+# map from keyword to layer type of model
 dict_layer = {'r' : "relu", 'p' : 'maxpool', 'c' : 'conv2d'}
 units = None
 

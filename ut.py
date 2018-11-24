@@ -32,6 +32,7 @@ config = {
 	"REGULARIZATION_STRENGTH" : 1e-3
 }
 
+# reset config
 def reset_config():
 	config = {
 		"N" : 8,

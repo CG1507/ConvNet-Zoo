@@ -308,6 +308,7 @@ class App(QMainWindow):
 		for file in os.listdir(folder):
 			shutil.rmtree(folder + file)
 
+	# calling main api method
 	def visualization(self, model_retrain, im):
 		sess = K.get_session()
 		layers = ['r', 'p', 'c']
