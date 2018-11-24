@@ -4,7 +4,7 @@ ConvNet-Zoo is playground for benchmark architectures of Convolutional Neural Ne
 
 ## PlayGround
 
-<img src="https://github.com/CG1507/ConvNet-Zoo/images/demo.gif" width="900" height="600" />
+<img src="https://github.com/CG1507/ConvNet-Zoo/blob/master/images/demo.gif" width="900" height="600" />
 
 ## Requirements:
 * PyQt5
