@@ -38,7 +38,7 @@ tensorboard --logdir=<LOG-PATH (layerwise)>
 
 ## Author
 
-[Ghanshyam Chodavadiya](https://cg1507.github.io)
+[<img src="https://avatars3.githubusercontent.com/u/24426731?s=460&v=4" width="70" height="70" alt="Ghanshyam_Chodavadiya">](https://github.com/CG1507)
 
 ## Acknowledgement
 
