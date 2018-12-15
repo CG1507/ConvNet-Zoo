@@ -1,10 +1,11 @@
-# :deciduous_tree: ConvNet-Zoo
-
-ConvNet-Zoo is playground for benchmark architectures of Convolutional Neural Networks (CNN). It is implemented in Keras with TensorFlow backend to compare the different architectures and understand the **How ConvNet's layers see the images?**.
-
-## PlayGround
-
-<img src="https://github.com/CG1507/ConvNet-Zoo/blob/master/images/demo.gif" width="900" height="500" />
+<h1 align="center">
+  :deciduous_tree: ConvNet-Zoo :deciduous_tree:
+  <h3 align="center">
+  :video_game: PlayGround
+  </h3>
+  <br />
+  <img src="https://github.com/CG1507/ConvNet-Zoo/blob/master/images/demo.gif" width="900" height="500" />
+</h1>
 
 ## Requirements:
 * PyQt5
