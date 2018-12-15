@@ -12,7 +12,7 @@ from keras.optimizers import SGD
 from keras.layers.core import Dense, Activation
 from keras.models import Model
 import keras.backend as K
-import densenet_vis
+import vis
 
 # pyqt5 class for main window
 class App(QMainWindow):
@@ -316,7 +316,7 @@ class App(QMainWindow):
 		self.delete_history()
 		with sess.as_default():
 		# with sess_graph_path = None, the default Session will be used for visualization.
-			is_success = densenet_vis.activation_visualization(sess_graph_path = None,
+			is_success = vis.activation_visualization(sess_graph_path = None,
 								value_feed_dict = {model_retrain.get_layer('input_1').input : im}, 
 								layers=layers, path_logdir='./vis/activation/log/', 
 								path_outdir='./vis/activation/output/')
