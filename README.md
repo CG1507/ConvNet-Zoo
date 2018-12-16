@@ -22,7 +22,7 @@
 ## Run:
 Very first time it will download the weights of the model you pick, so it requires an internet connection.
 ```
-python gui.py
+python3 gui.py
 ```
 
 ## For Tensorboard:
